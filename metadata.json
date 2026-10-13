@@ -1,0 +1,6 @@
+{
+  "name": "Irani Chai & Osmania Rush",
+  "description": "A fast-paced incremental clicker where you catch falling buttery Osmania biscuits and pour piping hot Irani chai against the clock in Hyderabad's bustling cafe rush.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
